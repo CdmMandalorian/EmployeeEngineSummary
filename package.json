@@ -1,0 +1,27 @@
+{
+  "name": "employeeenginesummary",
+  "version": "1.0.0",
+  "description": "Develop Engine Employee Summary - W10HW",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CdmMandalorian/EmployeeEngineSummary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CdmMandalorian/EmployeeEngineSummary/issues"
+  },
+  "homepage": "https://github.com/CdmMandalorian/EmployeeEngineSummary#readme"
+}
