@@ -23,7 +23,7 @@ How do you deliver this? Here are some guidelines:
 ![image](/assets/img/employeeEnginehtmloutputScreenshoot.png)  
 
 ## Screenshoot of node app.js:
-![image](/assets\img\workTeamEngineScreenshoot.png)
+![image](/assets/img/workTeamEngineScreenshoot.png)
     
 
 ## Test Pass:  
