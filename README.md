@@ -42,7 +42,7 @@ Node.js
 Inquirer  
 Jest Test  
 HTML 5  
-CSS  
-BootStrap 
-Google Fonts
-Javascript 
+CSS    
+BootStrap      
+Google Fonts        
+Javascript         
