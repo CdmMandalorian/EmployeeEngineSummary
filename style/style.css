@@ -1,6 +1,8 @@
+
 .jumbotron {
     color: white;
     background-color: #0A2C48;
+    font-family: 'Merriweather', serif;
 }
 div.card.employee-card {
     margin: 2%;
@@ -8,12 +10,15 @@ div.card.employee-card {
 
 div.card-header {
     background-color: slategray;
+    
 }
 h2.card-title {
     display: contents;
+    font-family: 'Merriweather', serif;
 }
 h3.card-title{
     display: contents;
+    font-family: 'Merriweather', serif;
 }
 
 div.copyright {
