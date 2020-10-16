@@ -21,6 +21,9 @@ How do you deliver this? Here are some guidelines:
 
 ## Screenshot of output HTML:  
 ![image](/assets/img/employeeEnginehtmloutputScreenshoot.png)  
+
+## Screenshoot of node app.js:
+![image](/assets\img\workTeamEngineScreenshoot.png)
     
 
 ## Test Pass:  
@@ -30,8 +33,6 @@ How do you deliver this? Here are some guidelines:
 ## Repository:  
 [Employee Engine Repo](https://github.com/CdmMandalorian/EmployeeEngineSummary)  
 
-## Link to video demo:
-[Working Demo](https://) 
   
 ## Portfolio:  
 [Armando Galindo Portfolio](https://cdmmandalorian.github.io/MResponsive-Portfolio/)
