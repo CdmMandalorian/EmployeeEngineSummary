@@ -28,7 +28,8 @@ How do you deliver this? Here are some guidelines:
 
 ## Test Pass:  
 ![image](/assets/img/passTestScreenshot.png)  
- 
+
+![image](/assets/img/passTestScreenshot(1).png)  
 
 ## Repository:  
 [Employee Engine Repo](https://github.com/CdmMandalorian/EmployeeEngineSummary)  
