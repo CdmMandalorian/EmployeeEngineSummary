@@ -1,0 +1,40 @@
+.jumbotron {
+    color: white;
+    background-color: #0A2C48;
+}
+div.card.employee-card {
+    margin: 2%;
+}
+
+div.card-header {
+    background-color: slategray;
+}
+h2.card-title {
+    display: contents;
+}
+h3.card-title{
+    display: contents;
+}
+
+div.copyright {
+    border-top: thick solid #D69A00;
+    background-color: slategray;
+    position: sticky bottom;
+}
+
+footer#p {
+    float: center;
+    position: sticky bottom;
+}
+footer {
+    position: fixed;
+    bottom: -17px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h5{
+    text-align: center;
+    opacity: .9;
+}
