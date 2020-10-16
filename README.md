@@ -27,7 +27,7 @@ How do you deliver this? Here are some guidelines:
     
 
 ## Test Pass:  
-![image]()  
+![image](/assets/img/passTestScreenshot.png)  
  
 
 ## Repository:  

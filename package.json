@@ -8,7 +8,8 @@
     "test": "test"
   },
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "jest": "^26.5.3"
   },
   "devDependencies": {},
   "scripts": {
@@ -18,8 +19,8 @@
     "type": "git",
     "url": "git+https://github.com/CdmMandalorian/EmployeeEngineSummary.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Armando E Galindo",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/CdmMandalorian/EmployeeEngineSummary/issues"
   },
