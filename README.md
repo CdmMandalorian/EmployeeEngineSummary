@@ -36,7 +36,7 @@ How do you deliver this? Here are some guidelines:
 
   
 ## Portfolio:  
-[Armando Galindo Portfolio](https://cdmmandalorian.github.io/MResponsive-Portfolio/)
+[Armando Galindo Portfolio](https://cdmmandalorian.github.io/Armando-E-Galindo-Portfolio/)
   
 ## Credits:  
 Node.js  
